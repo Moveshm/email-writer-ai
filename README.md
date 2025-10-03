@@ -38,7 +38,7 @@ Email-AI-Assistant/
 
 ⚙️ Installation & Setup
 1. Clone the repository
-git clone https://github.com/your-username/email-ai-assistant.git
+git clone https://github.com/Moveshm/email-writer-ai.git
 cd email-ai-assistant
 
 2. Backend (Spring Boot)
